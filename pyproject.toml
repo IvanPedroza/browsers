@@ -1,0 +1,18 @@
+[project]
+name = "final-broswers"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "aiohttp>=3.11.11",
+    "anthropic>=0.45.2",
+    "boto3>=1.36.9",
+    "fs>=2.4.16",
+    "google-auth>=2.38.0",
+    "path>=17.1.0",
+    "playwright>=1.49.1",
+    "python-dotenv>=1.0.1",
+    "runloop-api-client>=0.18.0",
+    "streamlit>=1.41.1",
+]
